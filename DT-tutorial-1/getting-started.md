@@ -1,4 +1,4 @@
-# Tutorial 1: Getting started with DT
+# Get started with DT
 [Reference](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
 
 ## Prerequisites
