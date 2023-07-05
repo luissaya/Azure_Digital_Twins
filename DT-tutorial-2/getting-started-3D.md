@@ -1,4 +1,4 @@
-# Get started with 3D Scenes Studio fot DT
+# Get started with 3D Scenes Studio for DT
 [Reference](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-3d-scenes-studio)
 This sample scenario represents a package distribution center that contains six robotic arms. Each arm has a digital twin with properties to track how many boxes the arm fails to pick up, along with the IDs of the missed boxes.
 ![3d](./img/3D-scenario.png)
